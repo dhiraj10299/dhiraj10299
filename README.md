@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="600" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-dhiraj&label=Profile%20views&color=0e75b6&style=flat" alt="git-dhiraj" /> </p>
 
-- 📫 How to reach me **dk9908070@gmail.com**
+- 📫 How to reach me **dhiraj.x.kumar@fosteringlinux.com**
 
 - ⚡ Fun fact **i am funny ✌**
 
